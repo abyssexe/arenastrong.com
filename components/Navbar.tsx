@@ -24,7 +24,7 @@ export default function Navbar() {
   ];
   
   const navItems = [
-    { name: 'Event Announcements', href: '/announcements', external: false },
+    { name: 'Events', href: '/events', external: false },
     { name: 'Contact Us', href: '/#contact', external: false },
   ];
 

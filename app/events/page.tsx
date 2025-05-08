@@ -27,12 +27,12 @@ export default async function AnnouncementsPage() {
 
   return (
     <main className="max-w-3xl mx-auto px-4 py-20 text-white">
-      <h1 className="text-4xl font-bold mb-8">Event Announcements</h1>
+      <h1 className="text-4xl font-bold mb-8">Events</h1>
       <ul className="space-y-4">
         {posts.map((post) => (
           <li key={post.slug}>
             <Link
-              href={`/announcements/${post.slug}`}
+              href={`/events/${post.slug}`}
               className="text-xl text-white hover:underline"
             >
               {post.title}
