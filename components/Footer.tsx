@@ -9,9 +9,9 @@ export default function Footer() {
                 Arena Training Center
               </h3>
               <div className="text-sm text-gray-400 space-y-2">
-                <p>123 Main Street</p>
+                <p>4555 Las Positas Rd Unit E</p>
                 <p>Livermore, CA 94550</p>
-                <p>Phone: (925) 555-0123</p>
+                <p>Phone: (925) 660-9339</p>
                 <p>Email: info@arenatrainingcenter.com</p>
               </div>
             </div>
@@ -22,11 +22,11 @@ export default function Footer() {
                 Quick Links
               </h3>
               <ul className="text-sm text-gray-400 space-y-2">
-                <li><a href="#about" className="hover:text-[var(--secondary)] transition">About Us</a></li>
-                <li><a href="#services" className="hover:text-[var(--secondary)] transition">Training Programs</a></li>
-                <li><a href="#recovery" className="hover:text-[var(--secondary)] transition">Recovery Center</a></li>
-                <li><a href="#coaches" className="hover:text-[var(--secondary)] transition">Our Coaches</a></li>
-                <li><a href="#partnerships" className="hover:text-[var(--secondary)] transition">Partners</a></li>
+                <li><a href="/#about" className="hover:text-[var(--secondary)] transition">About Us</a></li>
+                <li><a href="/#services" className="hover:text-[var(--secondary)] transition">Training Programs</a></li>
+                <li><a href="/#recovery" className="hover:text-[var(--secondary)] transition">Recovery Center</a></li>
+                <li><a href="/#coaches" className="hover:text-[var(--secondary)] transition">Our Coaches</a></li>
+                <li><a href="/#partnerships" className="hover:text-[var(--secondary)] transition">Partners</a></li>
               </ul>
             </div>
   
@@ -36,11 +36,11 @@ export default function Footer() {
                 Training
               </h3>
               <ul className="text-sm text-gray-400 space-y-2">
-                <li><a href="#" className="hover:text-[var(--secondary)] transition">Olympic Boxing</a></li>
-                <li><a href="#" className="hover:text-[var(--secondary)] transition">Performance Bootcamp</a></li>
-                <li><a href="#" className="hover:text-[var(--secondary)] transition">Jiu Jitsu</a></li>
-                <li><a href="#" className="hover:text-[var(--secondary)] transition">Open Gym & Powerlifting</a></li>
-                <li><a href="#" className="hover:text-[var(--secondary)] transition">Class Schedule</a></li>
+                <li><a href="/#services" className="hover:text-[var(--secondary)] transition">Olympic Boxing</a></li>
+                <li><a href="/#services" className="hover:text-[var(--secondary)] transition">Performance Bootcamp</a></li>
+                <li><a href="/#services" className="hover:text-[var(--secondary)] transition">Jiu Jitsu</a></li>
+                <li><a href="/#services" className="hover:text-[var(--secondary)] transition">Open Gym & Powerlifting</a></li>
+                <li><a href="https://arenastrong.sites.zenplanner.com/calendar.cfm" className="hover:text-[var(--secondary)] transition">Class Schedule</a></li>
               </ul>
             </div>
   
